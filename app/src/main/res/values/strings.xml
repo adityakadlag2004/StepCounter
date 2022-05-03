@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StepCounter</string>
+    <string name="steps">Steps</string>
+    <string name="_0">0</string>
+    <string name="todo">todo</string>
+    <string name="long_press_to_reset">Long Press To Reset</string>
+</resources>
